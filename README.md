@@ -1,4 +1,4 @@
-!https://github.com/ankitasuman009/images/blob/master/dicee_image.png
+![overview](https://github.com/ankitasuman009/images/blob/master/dicee_image.png)
 
 
 # Dicee 🎲
